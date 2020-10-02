@@ -16,3 +16,12 @@ Activity2.java : マッチング画面
 Activity2_1.java : 対戦中の画面  
 OnlineBattle_CameraActivity.java : オンライン対戦用の撮影・録音を行うアクティビティ  
 Activity2_1_1.java : オンライン対戦の結果画面  
+
+# 実行環境
+Android Studio 4.0.1  
+opencv 4.3.0  
+HUAWEI nova 3 lite  
+GALAXY A41  
+
+# インストール方法  
+[opencv 4.3.0](https://sourceforge.net/projects/opencvlibrary/files/4.3.0/opencv-4.3.0-android-sdk.zip/download)  
