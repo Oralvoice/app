@@ -147,6 +147,7 @@ public class OnlineBattle_CameraActivity extends AppCompatActivity {
     int word_num3;
 
     //口の動きの点数
+    int mouth_score;
 
     //口の動きと音声の平均点
     int score;
@@ -156,8 +157,7 @@ public class OnlineBattle_CameraActivity extends AppCompatActivity {
 
     //カウントダウンのTextView
     TextView timerText;
-    int mouth_score;
-
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
