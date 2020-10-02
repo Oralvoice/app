@@ -1,7 +1,7 @@
 # 各ファイルの説明
 ### 基本画面
-MainActivity.java : ホーム、実績、ランキング、アカウント情報をタブで切り替えて表示するアクティビティ  
-SectionsPagerAdapter.java : MainActivity.javaでTabLayoutにセットするViewPagerにセットするアダプター  
+MainActivity.java : ホーム、実績、ランキング、アカウント情報をタブ(TabLayout)で切り替えて表示するアクティビティ  
+SectionsPagerAdapter.java : MainActivity.java内のTabLayoutでの画面切り替えに使うアダプター  
 Frag1.java : ホーム画面  
 Frag2.java : 実績画面  
 Frag3.java : ランキング画面  
