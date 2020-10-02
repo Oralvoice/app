@@ -20,7 +20,7 @@ Activity2_1_1.java : オンライン対戦の結果画面
 # 実行環境
 Android Studio 4.0.1  
 opencv 4.3.0  
-HUAWEI nova 3 lite  
+HUAWEI nova lite 3  
 GALAXY A41  
 
 # インストール方法  
