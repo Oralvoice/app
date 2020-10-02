@@ -10,7 +10,7 @@ Frag4.java : アカウント情報画面
 Activity1.java : 単語選択画面  
 Activity1_1.java : 単語を選択した後の単語の情報画面  
 CameraActivity.java : "ひとりで練習"モード用の撮影・録音を行うアクティビティ  
-Activity1_1_1 : "ひとりで練習"モードの結果画面  
+Activity1_1_1.java : "ひとりで練習"モードの結果画面  
 ### "オンライン対戦"モード
 Activity2.java : マッチング画面  
 Activity2_1.java : 対戦中の画面  
